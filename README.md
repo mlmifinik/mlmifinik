@@ -18,7 +18,7 @@
 |[Сравнение поведения пользователей](https://github.com/mlmifinik/Yandex_practicum/tree/main/User%20behavior%20research)|
 |[Исследование надёжности заёмщиков банка](https://github.com/mlmifinik/Yandex_practicum/tree/main/Reliability%20research)|
 |[Исследование объявлений о продаже квартир](https://github.com/mlmifinik/Yandex_practicum/tree/main/Realty%20research)|
-|Определение перспективного тарифа для телеком-компании|
+|[Определение перспективного тарифа для телеком-компании](https://github.com/mlmifinik/Yandex_practicum/tree/main/Tariff%20definition)|
 |Выявление закономерностей, определяющих коммерческую успешность игры|
 |Рекомендация тарифов для оператора мобильной связи|
 |Прогнозирование оттока клиентов банка|
