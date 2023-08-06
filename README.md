@@ -6,10 +6,10 @@
 
 Контакты:
 
-  Mail: mlmifinik@gmail.com<br>
+  mlmifinik@gmail.com<br>
   [Резюме на hh.ru](https://hh.ru/resume/60fee53cff0c02c0120039ed1f6b4453736b73)
 
-Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, Bert, CatBoost, XGB
+Используемые технологии: Python, Pandas, SQL, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, SciPy, Bert, TensorFlow, Keras, CatBoost, XGBoost, LightGBM
 
 #### Портфолио проектов
 |Название|
