@@ -20,7 +20,7 @@
 |[Исследование объявлений о продаже квартир](https://github.com/mlmifinik/Yandex_practicum/tree/main/Realty%20research)|
 |[Определение перспективного тарифа для телеком-компании](https://github.com/mlmifinik/Yandex_practicum/tree/main/Tariff%20definition)|
 |[Выявление закономерностей, определяющих коммерческую успешность игры](https://github.com/mlmifinik/Yandex_practicum/tree/main/Research%20patterns)|
-|Рекомендация тарифов для оператора мобильной связи|
+|[Рекомендация тарифов для оператора мобильной связи](https://github.com/mlmifinik/Yandex_practicum/tree/main/Recommendation%20of%20tariffs)|
 |Прогнозирование оттока клиентов банка|
 |Выбор локации для нефтяной скважины|
 |Предсказание коэффициента восстановления золота из золотосодержащей руды|
