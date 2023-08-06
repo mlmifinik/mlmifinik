@@ -2,19 +2,18 @@
 
 Меня зовут Шахтарин Михаил.
 
-Я начинающий специалист в DATA SCIENCE. Основной опыт - учебные проекты Yandex.Practicum. Помимо этого обладаю высокими компетенциями и большим практическим опытом управления финансово-экономической деятельностью компаний, благодаря основному образованию и предыдущим местам работы. 
+Я начинающий специалист в DATA SCIENCE. Основной опыт - учебные проекты Yandex.Practicum. Помимо этого обладаю высокими компетенциями и большим практическим опытом (более 15 лет) управления финансово-экономическим подразделениями компаний.
 
 Контакты:
 
   Mail: mlmifinik@gmail.com<br>
-  Telegram: @Shakhtiki
+  [Резюме на hh.ru](https://hh.ru/resume/60fee53cff0c02c0120039ed1f6b4453736b73)
 
 Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, Bert, CatBoost, XGB
 
-#### ПОРТФОЛИО
-
-|Проекты|
-|:--------|
+#### Портфолио проектов
+|Название|
+|:----|
 |[Сравнение поведения пользователей](https://github.com/mlmifinik/Yandex_practicum/tree/main/User%20behavior%20research)|
 |[Исследование надёжности заёмщиков банка](https://github.com/mlmifinik/Yandex_practicum/tree/main/Reliability%20research)|
 |[Исследование объявлений о продаже квартир](https://github.com/mlmifinik/Yandex_practicum/tree/main/Realty%20research)|
