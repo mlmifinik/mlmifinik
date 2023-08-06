@@ -23,7 +23,7 @@
 |[Рекомендация тарифов для оператора мобильной связи](https://github.com/mlmifinik/Yandex_practicum/tree/main/Recommendation%20of%20tariffs)|
 |[Прогнозирование оттока клиентов банка](https://github.com/mlmifinik/Yandex_practicum/tree/main/Forecasting%20customer%20churn)|
 |[Выбор локации для нефтяной скважины](https://github.com/mlmifinik/Yandex_practicum/tree/main/Location%20selection)|
-|Предсказание коэффициента восстановления золота из золотосодержащей руды|
+|[Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/mlmifinik/Yandex_practicum/tree/main/Prediction%20of%20the%20coefficient)|
 |Защита персональных данных клиентов страховой компании|
 |Определение стоимости автомобиля|
 |Прогнозирование количества заказов такси на следующий час|
