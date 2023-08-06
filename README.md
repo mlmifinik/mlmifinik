@@ -21,7 +21,7 @@
 |[Определение перспективного тарифа для телеком-компании](https://github.com/mlmifinik/Yandex_practicum/tree/main/Tariff%20definition)|
 |[Выявление закономерностей, определяющих коммерческую успешность игры](https://github.com/mlmifinik/Yandex_practicum/tree/main/Research%20patterns)|
 |[Рекомендация тарифов для оператора мобильной связи](https://github.com/mlmifinik/Yandex_practicum/tree/main/Recommendation%20of%20tariffs)|
-|Прогнозирование оттока клиентов банка|
+|[Прогнозирование оттока клиентов банка](https://github.com/mlmifinik/Yandex_practicum/tree/main/Forecasting%20customer%20churn)|
 |Выбор локации для нефтяной скважины|
 |Предсказание коэффициента восстановления золота из золотосодержащей руды|
 |Защита персональных данных клиентов страховой компании|
