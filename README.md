@@ -28,7 +28,7 @@
 |[Определение стоимости автомобиля](https://github.com/mlmifinik/Yandex_practicum/tree/main/Determining%20the%20cost)|
 |[Прогнозирование количества заказов такси на следующий час](https://github.com/mlmifinik/Yandex_practicum/tree/main/Forecasting%20orders)|
 |[Классификация комментариев](https://github.com/mlmifinik/Yandex_practicum/tree/main/Classification%20of%20comments)|
-|Определение возраста по фотографии|
+|[Определение возраста по фотографии](https://github.com/mlmifinik/Yandex_practicum/tree/main/Age%20determination)|
 |Промышленная обработка стали|
 
 
