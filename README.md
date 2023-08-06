@@ -26,7 +26,7 @@
 |[Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/mlmifinik/Yandex_practicum/tree/main/Prediction%20of%20the%20coefficient)|
 |[Защита персональных данных клиентов страховой компании](https://github.com/mlmifinik/Yandex_practicum/tree/main/Data%20protection)|
 |[Определение стоимости автомобиля](https://github.com/mlmifinik/Yandex_practicum/tree/main/Determining%20the%20cost)|
-|Прогнозирование количества заказов такси на следующий час|
+|[Прогнозирование количества заказов такси на следующий час](https://github.com/mlmifinik/Yandex_practicum/tree/main/Forecasting%20orders)|
 |Классификация комментариев|
 |Определение возраста по фотографии|
 |Промышленная обработка стали|
