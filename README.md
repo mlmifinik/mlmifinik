@@ -24,7 +24,7 @@
 |[Прогнозирование оттока клиентов банка](https://github.com/mlmifinik/Yandex_practicum/tree/main/Forecasting%20customer%20churn)|
 |[Выбор локации для нефтяной скважины](https://github.com/mlmifinik/Yandex_practicum/tree/main/Location%20selection)|
 |[Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/mlmifinik/Yandex_practicum/tree/main/Prediction%20of%20the%20coefficient)|
-|Защита персональных данных клиентов страховой компании|
+|[Защита персональных данных клиентов страховой компании](https://github.com/mlmifinik/Yandex_practicum/tree/main/Data%20protection)|
 |Определение стоимости автомобиля|
 |Прогнозирование количества заказов такси на следующий час|
 |Классификация комментариев|
