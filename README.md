@@ -2,12 +2,12 @@
 
 Я Шахтарин Михаил. Начинающий специалист в DATA SCIENCE. Основной опыт - учебные проекты Yandex.Practicum. Помимо этого обладаю высокими профессиональными компетенциями и большим практическим опытом (более 15 лет) управления финансово-экономическим подразделениями компаний различных направлений деятельности (строительство, производство, услуги, розничная торговля)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=junior+data+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=junior+data+scientist)](https://git.io/typing-svg)
 
 Контакты:
 
   mlmifinik@gmail.com<br>
-  [Резюме на hh.ru](https://hh.ru/resume/60fee53cff0c02c0120039ed1f6b4453736b73)
+  [резюме на hh.ru](https://hh.ru/resume/60fee53cff0c02c0120039ed1f6b4453736b73)
 
 Используемые технологии: Python, Pandas, SQL, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, SciPy, Bert, TensorFlow, Keras, CatBoost, XGBoost, LightGBM
 
