@@ -9,7 +9,7 @@
   Mail: mlmifinik@gmail.com<br>
   Telegram: @Shakhtiki
 
-Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
+Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, Bert, CatBoost, XGBoost, LightGBM, SQL.
 
 ### Портфолио DA и DS проектов
 
