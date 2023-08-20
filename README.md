@@ -9,7 +9,7 @@
   mlmifinik@gmail.com<br>
   [резюме на hh.ru](https://hh.ru/resume/60fee53cff0c02c0120039ed1f6b4453736b73)
 
-Используемые технологии: Python, Pandas, SQL, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, SciPy, Bert, TensorFlow, Keras, CatBoost, XGBoost, LightGBM
+Используемые технологии: Python, Pandas, SQL, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, SciPy, Bert, TensorFlow, Keras, CatBoost, XGBoost, LightGBM
 
 
 
