@@ -9,7 +9,7 @@
   mlmifinik@gmail.com<br>
   [резюме на hh.ru](https://hh.ru/resume/60fee53cff0c02c0120039ed1f6b4453736b73)
 
-Стек - Python, SQL, Pandas, Polars, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, SciPy, Bert, TensorFlow, Keras, CatBoost, XGBoost, LightGBM
+Стек - Python, SQL, Pandas, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, SciPy, Bert, TensorFlow, Keras, CatBoost, XGBoost, LightGBM
 
 
 
